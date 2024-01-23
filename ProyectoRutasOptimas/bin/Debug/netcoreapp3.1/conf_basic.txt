@@ -1,0 +1,3 @@
+PILAS1=datos\pilasNacimiento.csv
+ACOPIO1=datos\acopioNacimiento.csv
+DEM1=datos\demNacimiento.csv

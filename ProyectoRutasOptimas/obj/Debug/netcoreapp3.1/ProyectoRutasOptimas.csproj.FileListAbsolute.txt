@@ -1,0 +1,13 @@
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.AssemblyInfoInputs.cache
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.AssemblyInfo.cs
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.csproj.CoreCompileInputs.cache
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\bin\Debug\netcoreapp3.1\ProyectoRutasOptimas.exe
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\bin\Debug\netcoreapp3.1\ProyectoRutasOptimas.deps.json
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\bin\Debug\netcoreapp3.1\ProyectoRutasOptimas.runtimeconfig.json
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\bin\Debug\netcoreapp3.1\ProyectoRutasOptimas.runtimeconfig.dev.json
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\bin\Debug\netcoreapp3.1\ProyectoRutasOptimas.dll
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\bin\Debug\netcoreapp3.1\ProyectoRutasOptimas.pdb
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.dll
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.pdb
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.genruntimeconfig.cache
+C:\Users\chermo\OneDrive\USS\2023\3er Trimestre\ProyectoTitulo\Programa\ProyectoRutasOptimas\ProyectoRutasOptimas\obj\Debug\netcoreapp3.1\ProyectoRutasOptimas.csprojAssemblyReference.cache

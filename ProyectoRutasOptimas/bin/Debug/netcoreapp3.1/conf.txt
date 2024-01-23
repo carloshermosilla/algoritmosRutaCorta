@@ -1,0 +1,6 @@
+PILAS1=datos\pilasNacimiento.csv
+ACOPIO1=datos\acopioNacimiento.csv
+PILAS2=datos\pilasChillan.csv
+ACOPIO2=datos\acopioChillan.csv
+PILAS3=datos\pilasPitrufquen.csv
+ACOPIO3=datos\acopioPitrufquen.csv
